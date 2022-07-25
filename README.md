@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá, meu nome é Leandro 👋
+###Sou Técnico de Automação na Renner.
 
 <!--
 **LeandroOliver26/LeandroOliver26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
